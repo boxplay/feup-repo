@@ -1,0 +1,13 @@
+{
+  "spa": {
+    "repo": "https://github.com/boxplay/feup-spa.git",
+    "branch": "master"
+  },
+  "ssr": {
+    "repo": "https://github.com/boxplay/ssr-kit.git"
+  },
+  "admin": {
+    "repo": "https://github.com/boxplay/feup-admin.git",
+    "branch": "master"
+  }
+}
